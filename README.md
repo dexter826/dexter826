@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tran Cong Minh</h1>
-<h3 align="center">A 3rd-year student majoring in Information Technology at Ho Chi Minh City University of Industry and Trade (HUIT)</h3>
+<h3 align="center">A 3rd-year student majoring in Software Engineer at Ho Chi Minh City University of Industry and Trade (HUIT)</h3>
 
 <br>
 
 ### About Me
 
--   💻 I have a strong interest in **Frontend Development**.
--   🛠️ My preferred technologies include **ReactJS** and **Winform C#**.
 -   🌱 I'm currently learning and exploring new technologies to expand my skills.
 
 <br>
@@ -46,11 +44,10 @@
 
 ### Projects
 
--   Will list projects here soon! (Sẽ liệt kê các dự án tại đây sau!)
+-   Will list projects here soon!
 
 <br>
 
 ### Favorite Quote
 
-> [Insert your favorite quote here]
-> _[Author, if applicable]_
+> [I'm living in blessings that used to be prayer requests]
