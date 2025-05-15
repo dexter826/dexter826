@@ -12,7 +12,7 @@
 ### Connect with me:
 
 -   📫 How to reach me: **tcongminh1604@gmail.com**
--   📄 Know about my experiences: [My Resume/CV](https://www.overleaf.com/read/xfmvmsfkrxnb#fb4841) (Consider exporting to PDF for easier sharing!)
+-   📄 Know about my experiences: [My Resume/CV](https://www.overleaf.com/read/xfmvmsfkrxnb#fb4841)
 
 <p align="left">
 <a href="https://fb.com/ctrlkd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ctrlkd1" height="30" width="40" /></a>
