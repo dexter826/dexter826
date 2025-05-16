@@ -42,9 +42,11 @@
 
 <br>
 
-### Projects
+### Project Experiences
 
--   Will list projects here soon!
+-   [Watch E-commerce Website](https://github.com/dexter826/Watch_E-commerce_Website)
+-   [Examination Management System](https://github.com/dexter826/ThiTracNghiem)
+-   [Email Spam Detection Application](https://github.com/dexter826/SpamFilterApp)
 
 <br>
 
