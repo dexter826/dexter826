@@ -52,4 +52,4 @@
 
 ### Favorite Quote
 
-> [I'm living in blessings that used to be prayer requests]
+> "I'm living in blessings that used to be prayer requests ♰"
