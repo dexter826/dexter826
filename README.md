@@ -45,8 +45,9 @@
 ### Project Experiences
 
 -   [Watch E-commerce Website](https://github.com/dexter826/Watch_E-commerce_Website)
--   [Examination Management System](https://github.com/dexter826/ThiTracNghiem)
--   [Email Spam Detection Application](https://github.com/dexter826/SpamFilterApp)
+-   [Examination Management System - C#](https://github.com/dexter826/ThiTracNghiem)
+-   [Email Spam Detection Application - C#](https://github.com/dexter826/SpamFilterApp)
+-   [Motorbike Rental Application - Flutter](https://github.com/dexter826/motorbike_rental_app)
 
 <br>
 
