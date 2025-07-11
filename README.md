@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Cong Minh</h1>
-<h3 align="center">A 3rd-year student majoring in Software Engineer at Ho Chi Minh City University of Industry and Trade (HUIT)</h3>
+<h3 align="center">A 4rd-year student majoring in Software Engineer at Ho Chi Minh City University of Industry and Trade (HUIT)</h3>
 
 <br>
 
