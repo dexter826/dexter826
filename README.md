@@ -6,6 +6,7 @@
 ### About Me
 
 -   🌱 I'm currently learning and exploring new technologies to expand my skills.
+-   JUST A VIBE CODER !!!
 
 <br>
 
