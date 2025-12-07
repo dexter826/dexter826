@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://fb.com/ctrlkd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ctrlkd1" height="30" width="40" /></a>
 <a href="https://www.instagram.com/trcongminh_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trcongminh_04" height="30" width="40" /></a>
-<a href="https://t.me/mob826" target="blank"><img align="center" src="raw.githubusercontent.com" alt="mob826" height="30" width="40" /></a>
+<a href="https://t.me/mob826" target="blank"><img align="center" src="https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Telegram_2019_Logo.svg" alt="mob826" height="30" width="40" /></a>
 </p>
 
 <br>
