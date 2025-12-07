@@ -13,7 +13,7 @@
 ### Connect with me:
 
 -   📫 How to reach me: **tcongminh1604@gmail.com**
-- 📄 Know about my experiences: [My Resume/CV (PDF)](https://github.com/dexter826/dexter826/blob/main/MyCV.pdf)
+<!--- 📄 Know about my experiences: [My Resume/CV (PDF)](https://github.com/dexter826/dexter826/blob/main/MyCV.pdf) -->
 
 <p align="left">
 <a href="https://fb.com/ctrlkd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ctrlkd1" height="30" width="40" /></a>
@@ -45,9 +45,8 @@
 
 ### Project Experiences
 
--   [Watch E-commerce Website](https://github.com/dexter826/Watch_E-commerce_Website)
--   [Examination Management System - C#](https://github.com/dexter826/ThiTracNghiem)
--   [Email Spam Detection Application - C#](https://github.com/dexter826/SpamFilterApp)
+-   [SmurfExpress News Portal - PHP](https://github.com/Koixaco2004/PHP_web)
+-   [CineMOB - Movie Tracker App - TypeScript](https://github.com/dexter826/cinemob)
 -   [Motorbike Rental Application - Flutter](https://github.com/dexter826/motorbike_rental_app)
 
 <br>
