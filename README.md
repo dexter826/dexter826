@@ -5,8 +5,8 @@
 
 ### About Me
 
--   👨‍💼 Aspiring BUSINESS ANALYST
 -   🌱 I'm currently learning and exploring new technologies to expand my skills.
+-   👨‍💻 Just Redoc Ebiv @
 
 ### Connect with me:
 
