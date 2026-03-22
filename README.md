@@ -7,6 +7,7 @@
 
 -   🌱 I'm currently learning and exploring new technologies to expand my skills.
 -   JUST A VIBE CODER !!!
+-   Aspiring Business Analyst
 
 <br>
 
@@ -47,9 +48,9 @@
 
 ### Project Experiences
 
--   [SmurfExpress News Portal - PHP](https://github.com/Koixaco2004/PHP_web)
--   [CineMOB - Movie Tracker App - TypeScript](https://github.com/dexter826/cinemob)
--   [Motorbike Rental Application - Flutter](https://github.com/dexter826/motorbike_rental_app)
+-   [ShiftPay - Labor & Payroll System](https://github.com/dexter826/at_shiftpay)
+-   [Smurfy - Realtime Social Network](https://github.com/dexter826/smurf_social)
+-   [Motorbike Rental Application](https://github.com/dexter826/motorbike_rental_app)
 
 <br>
 
