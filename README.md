@@ -21,12 +21,12 @@
 <a href="https://t.me/mob826" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="mob826" height="30" width="40" /></a>
 </p>
 
-### Project Experiences
+### Feature Projects
 
 - [CineMOB - Personal Movie Tracker & AI Cinema Discovery](https://github.com/dexter826/cinemob)
 - [ShiftPay - Labor, Shift & Payroll System](https://github.com/dexter826/at_shiftpay)
 - [Smurfy - Realtime Multimedia Social Network](https://github.com/dexter826/smurf_social)
 
-### Favorite Quote
+### Favorite Quotes
 
 > "I'm living in blessings that used to be prayer requests ♰"
