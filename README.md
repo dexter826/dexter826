@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Cong Minh</h1>
-<h3 align="center">Software Engineer | Bachelor at Ho Chi Minh City University of Industry and Trade (HUIT)</h3>
+<h3 align="center">Product Builder | Bachelor at Ho Chi Minh City University of Industry and Trade (HUIT)</h3>
 
 <p align="center">
   <img src="./scarface.gif" alt="scarface" width="full" />
