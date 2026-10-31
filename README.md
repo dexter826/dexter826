@@ -23,7 +23,7 @@
 
 ### Feature Projects
 
-- [CineMOB - Personal Movie Tracker & AI Cinema Discovery](https://github.com/dexter826/cinemob)
+- [CineMOB - Personal Movie Tracker](https://github.com/dexter826/cinemob)
 - [ShiftPay - Labor, Shift & Payroll System](https://github.com/dexter826/at_shiftpay)
 - [Smurfy - Realtime Multimedia Social Network](https://github.com/dexter826/smurf_social)
 
