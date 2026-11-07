@@ -52,7 +52,7 @@ I care about the whole product, not just the implementation: understanding the p
 
 ## Favorite quote
 
-> "I'm living in blessings that used to be prayer requests 🙏"
+> "I'm living in blessings that used to be prayer requests 🕊"
 
 ## Connect
 
