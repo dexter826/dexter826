@@ -50,6 +50,10 @@ I care about the whole product, not just the implementation: understanding the p
 
 > Build useful things. Keep learning. Make every iteration better.
 
+## Favorite quote
+
+> "I'm living in blessings that used to be prayer requests 🙏"
+
 ## Connect
 
 <p>
