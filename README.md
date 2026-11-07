@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Trần Công Minh 👋</h1>
-  <p><strong>Product Builder · Full-stack Developer · HUIT</strong></p>
+  <p><strong>Product Builder · HUIT</strong></p>
   <p>
     I turn practical ideas into polished, useful products - from the first line of code to the final user experience.
   </p>
