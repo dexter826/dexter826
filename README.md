@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Trần Công Minh 👋</h1>
-  <p><strong>Product Builder · Software Engineering</strong></p>
+  <p><strong>Product Builder</strong></p>
   <p>
     I turn practical ideas into polished, useful products — from the first line of code to the final user experience.
   </p>
@@ -17,7 +17,7 @@
 
 ## About me
 
-- 🎓 Product Builder and Software Engineering student at Ho Chi Minh City University of Industry and Trade (HUIT).
+- 🎓 Software Engineering student at Ho Chi Minh City University of Industry and Trade (HUIT).
 - 🧩 Focused on building digital products that solve real problems, maintain operational stability, and feel simple to use.
 - ⚡ Comfortable working across product scoping, user flow design, frontend interfaces, backend services, and deployment.
 - 🌱 Exploring spec-driven development, AI-augmented workflows, and thoughtful product interactions.
