@@ -41,7 +41,6 @@
 | **[CineMOB](https://github.com/dexter826/cinemob)** | Personal movie and TV-show tracker with watchlists, release schedules, viewing history, and analytics. | [Live demo](https://cinemob.dpdns.org) |
 | **[ShiftPay](https://github.com/dexter826/at-shiftpay)** | A workforce platform for managing shifts, assignments, attendance, and payroll in one place. | [Live demo](https://at-shiftpay.web.app) |
 | **[TreeMaker](https://github.com/dexter826/treemaker)** | A collaborative platform for creating and preserving digital family trees. | [Live demo](https://treemaker.vercel.app) |
-| **[MOB Portfolio](https://github.com/dexter826/mob-portfolio)** | My personal portfolio for selected work, experiments, and product case studies. | [Visit site](https://mob-portfolio-sand.vercel.app) |
 | **[MusiMOB](https://github.com/dexter826/musimob)** | A private music notebook for saving, organizing, and revisiting favorite songs. | [Live demo](https://musi-mob.web.app) |
 
 ## How I work
