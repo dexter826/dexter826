@@ -1,13 +1,13 @@
 <div align="center">
   <h1>Hi, I'm Trần Công Minh 👋</h1>
-  <p><strong>Product Builder · HUIT</strong></p>
+  <p><strong>Product Builder · Software Engineering</strong></p>
   <p>
-    I turn practical ideas into polished, useful products - from the first line of code to the final user experience.
+    I turn practical ideas into polished, useful products — from the first line of code to the final user experience.
   </p>
   <p>
-    <a href="https://mob-portfolio-sand.vercel.app">Portfolio</a> ·
-    <a href="mailto:tcongminh1604@gmail.com">Email</a> ·
-    <a href="https://github.com/dexter826">GitHub</a>
+    <a href="https://mob-portfolio-sand.vercel.app">🌐 Portfolio</a> ·
+    <a href="mailto:tcongminh1604@gmail.com">📧 Email</a> ·
+    <a href="https://www.facebook.com/ctrlkd1">Facebook</a>
   </p>
 </div>
 
@@ -17,10 +17,10 @@
 
 ## About me
 
-- 🎓 Product Builder and student at Ho Chi Minh City University of Industry and Trade (HUIT).
-- 🧩 Interested in building products that solve real problems and feel simple to use.
-- ⚡ Comfortable working across product thinking, frontend experiences, backend services, and deployment.
-- 🌱 Currently exploring better architecture, stronger product workflows, and more thoughtful UX.
+- 🎓 Product Builder and Software Engineering student at Ho Chi Minh City University of Industry and Trade (HUIT).
+- 🧩 Focused on building digital products that solve real problems, maintain operational stability, and feel simple to use.
+- ⚡ Comfortable working across product scoping, user flow design, frontend interfaces, backend services, and deployment.
+- 🌱 Exploring spec-driven development, AI-augmented workflows, and thoughtful product interactions.
 
 ## Technologies used in featured projects
 
@@ -36,18 +36,19 @@
 
 ## Featured projects
 
-| Project | What it does | Links |
-| --- | --- | --- |
-| **[CineMOB](https://github.com/dexter826/cinemob)** | Personal movie and TV-show tracker with watchlists, release schedules, viewing history, and analytics. | [Live demo](https://cinemob.dpdns.org) |
-| **[ShiftPay](https://github.com/dexter826/at-shiftpay)** | A workforce platform for managing shifts, assignments, attendance, and payroll in one place. | [Live demo](https://at-shiftpay.web.app) |
-| **[TreeMaker](https://github.com/dexter826/treemaker)** | A collaborative platform for creating and preserving digital family trees. | [Live demo](https://treemaker.vercel.app) |
-| **[MusiMOB](https://github.com/dexter826/musimob)** | A private music notebook for saving, organizing, and revisiting favorite songs. | [Live demo](https://musi-mob.web.app) |
+| Project                                                         | What it does                                                                                                  | Links                                                  |
+| :-------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------- |
+| **[CineMOB](https://github.com/dexter826/cinemob)**             | Personal movie and TV-show tracker with watchlists, release schedules, viewing history, and TMDB integration. | [Live demo](https://cinematrics-e0231.firebaseapp.com) |
+| **[ShiftPay](https://github.com/dexter826/at-shiftpay)**        | Workforce operational platform for managing shifts, assignments, advances, and VietQR payroll settlements.    | [Live demo](https://at-shiftpay.web.app)               |
+| **[TreeMaker](https://github.com/dexter826/treemaker)**         | Digital genealogy platform for visualizing multi-generational family trees on an interactive 2D canvas.       | [Live demo](https://treemaker.vercel.app)              |
+| **[MOB Portfolio](https://github.com/dexter826/mob-portfolio)** | Personal engineering portfolio built with Next.js 16, Turbopack, and high-density square UI.                  | [Visit site](https://mob-portfolio-sand.vercel.app)    |
+| **[MusiMOB](https://github.com/dexter826/musimob)**             | Personal music notebook for discovering tracks via iTunes API, previewing 30s clips, and organizing albums.   | [Live demo](https://musi-mob.web.app)                  |
 
 ## How I work
 
-I care about the whole product, not just the implementation: understanding the problem, reducing unnecessary complexity, building a clear interface, and shipping something people can actually use.
+I care about the whole product, not just the implementation: understanding the core problem, eliminating unnecessary complexity, designing clean interfaces, and shipping systems people can actually rely on.
 
-> Build useful things. Keep learning. Make every iteration better.
+> Build useful things. Keep learning. Make every iteration count.
 
 ## Favorite quote
 
@@ -58,7 +59,7 @@ I care about the whole product, not just the implementation: understanding the p
 <p>
   <a href="mailto:tcongminh1604@gmail.com">📧 Email</a> ·
   <a href="https://mob-portfolio-sand.vercel.app">🌐 Portfolio</a> ·
-  <a href="https://www.facebook.com/ctrlkd">Facebook</a> ·
+  <a href="https://www.facebook.com/ctrlkd1">Facebook</a> ·
   <a href="https://www.instagram.com/trcongminh04">Instagram</a> ·
   <a href="https://t.me/mob826">Telegram</a>
 </p>
