@@ -28,7 +28,3 @@ I take products from a blank page to a working release, handling both the user f
 | **Problem first**     | Find the real bottleneck before writing a single line of code          |
 | **Lean scope**        | Cut anything that adds weight without helping the user get things done |
 | **AI-augmented flow** | Combine clear specs with AI tools to move fast without losing control  |
-
-## Favorite quote
-
-> "I'm living in blessings that used to be prayer requests ♰"
